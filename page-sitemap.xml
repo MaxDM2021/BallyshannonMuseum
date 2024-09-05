@@ -21,16 +21,6 @@
 		<lastmod>2024-08-05T13:05:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://maxdm2021.github.io/BallyshannonMuseum//1598-battle-of-ballyshannon/</loc>
-		<lastmod>2024-08-12T20:32:21+00:00</lastmod>
-		<image:image>
-			<image:loc>https://maxdm2021.github.io/BallyshannonMuseum//wp-content/uploads/2024/08/22-1024x75.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://maxdm2021.github.io/BallyshannonMuseum//wp-content/uploads/2024/08/22-1024x75.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://maxdm2021.github.io/BallyshannonMuseum//bram-stoker/</loc>
 		<lastmod>2024-08-12T21:06:13+00:00</lastmod>
 		<image:image>
@@ -44,16 +34,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://maxdm2021.github.io/BallyshannonMuseum//wp-content/uploads/2024/08/345.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://maxdm2021.github.io/BallyshannonMuseum//elementor-7/</loc>
-		<lastmod>2024-08-13T10:23:50+00:00</lastmod>
-		<image:image>
-			<image:loc>https://maxdm2021.github.io/BallyshannonMuseum//wp-content/uploads/2024/08/7-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://maxdm2021.github.io/BallyshannonMuseum//wp-content/uploads/2024/08/26-768x1024.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -119,8 +99,28 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://maxdm2021.github.io/BallyshannonMuseum//elementor-7/</loc>
+		<lastmod>2024-09-05T09:06:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://maxdm2021.github.io/BallyshannonMuseum//wp-content/uploads/2024/08/7-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://maxdm2021.github.io/BallyshannonMuseum//wp-content/uploads/2024/08/26-768x1024.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://maxdm2021.github.io/BallyshannonMuseum//rory-gallagher/</loc>
+		<lastmod>2024-09-05T09:12:51+00:00</lastmod>
+		<image:image>
+			<image:loc>https://maxdm2021.github.io/BallyshannonMuseum//wp-content/uploads/2024/08/14-768x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://maxdm2021.github.io/BallyshannonMuseum//wp-content/uploads/2024/09/Rorry-Gallary-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://maxdm2021.github.io/BallyshannonMuseum//wolking-tour/</loc>
-		<lastmod>2024-09-04T19:06:44+00:00</lastmod>
+		<lastmod>2024-09-05T09:17:23+00:00</lastmod>
 		<image:image>
 			<image:loc>https://maxdm2021.github.io/BallyshannonMuseum//wp-content/uploads/2024/08/mapwithpath1-1024x729.jpg</image:loc>
 		</image:image>
@@ -141,13 +141,13 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://maxdm2021.github.io/BallyshannonMuseum//rory-gallagher/</loc>
-		<lastmod>2024-09-04T21:36:36+00:00</lastmod>
+		<loc>https://maxdm2021.github.io/BallyshannonMuseum//1598-battle-of-ballyshannon/</loc>
+		<lastmod>2024-09-05T09:22:22+00:00</lastmod>
 		<image:image>
-			<image:loc>https://maxdm2021.github.io/BallyshannonMuseum//wp-content/uploads/2024/08/14-768x1024.jpg</image:loc>
+			<image:loc>https://maxdm2021.github.io/BallyshannonMuseum//wp-content/uploads/2024/08/22-1024x75.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://maxdm2021.github.io/BallyshannonMuseum//wp-content/uploads/2024/09/Rorry-Gallary-1.jpg</image:loc>
+			<image:loc>https://maxdm2021.github.io/BallyshannonMuseum//wp-content/uploads/2024/08/22-1024x75.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
